@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogioCommandLine", "LogioCommandLine\LogioCommandLine.csproj", "{2A420E8C-D49F-4019-AC74-B090E2760B80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogioCommandLine.Tests", "LogioCommandLine.Tests\LogioCommandLine.Tests.csproj", "{8EEDAB0B-72CB-4483-A425-DDF69662D184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A420E8C-D49F-4019-AC74-B090E2760B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A420E8C-D49F-4019-AC74-B090E2760B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A420E8C-D49F-4019-AC74-B090E2760B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A420E8C-D49F-4019-AC74-B090E2760B80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EEDAB0B-72CB-4483-A425-DDF69662D184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEDAB0B-72CB-4483-A425-DDF69662D184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEDAB0B-72CB-4483-A425-DDF69662D184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEDAB0B-72CB-4483-A425-DDF69662D184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
